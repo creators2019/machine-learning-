@@ -14,7 +14,7 @@
 - Task06：详读西瓜书+南瓜书第5章
 - Task07：详读西瓜书+南瓜书第6章
 
-- 扫码关注公众号：Datawhale
+- 可以扫码关注公众号：Datawhale，参与啃瓜活动！
 ![Datawhale](image.png)
 
 
