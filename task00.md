@@ -19,3 +19,6 @@
 
 - 结语：
 感谢本科阶段的自己有在好好的学习数学基础知识，捡起来也只是时间问题。永远保持空杯心态去开始一段新的旅程！
+
+- 可以扫码关注公众号：Datawhale，参与啃瓜活动！
+![Datawhale](https://datawhale-business.oss-cn-hangzhou.aliyuncs.com/87/dashboard/1730810362799/image.png)
